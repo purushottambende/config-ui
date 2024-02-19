@@ -1,0 +1,17 @@
+.course-card {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.orange{
+    background-color: #ff9800;
+}
+
+.chilly{
+    background-color: #03a9f4;
+}
+
+.tomato{
+    background-color: #f44336;
+}
